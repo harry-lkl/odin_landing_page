@@ -115,3 +115,29 @@
     border: solid 5px #3882F6;
     border-radius: 20pX;
 }
+
+.quote {
+    background-color: #e5e7eb;
+    padding: 100px 30% 100px 30%;
+}
+
+.quoteText {
+    text-align: left;
+    font-style: italic;
+    font-size: 36px;
+    font-weight: lighter;
+    color: #1f2937;
+}
+
+.quoteSign {
+    text-align: end;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.cTA {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f9faf8
+}
